@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deployed-scrimba-product-list/static/css/main.34de6062.chunk.css",
+    "main.js": "/deployed-scrimba-product-list/static/js/main.a724b127.chunk.js",
+    "main.js.map": "/deployed-scrimba-product-list/static/js/main.a724b127.chunk.js.map",
+    "runtime-main.js": "/deployed-scrimba-product-list/static/js/runtime-main.67f552c3.js",
+    "runtime-main.js.map": "/deployed-scrimba-product-list/static/js/runtime-main.67f552c3.js.map",
+    "static/js/2.59da407e.chunk.js": "/deployed-scrimba-product-list/static/js/2.59da407e.chunk.js",
+    "static/js/2.59da407e.chunk.js.map": "/deployed-scrimba-product-list/static/js/2.59da407e.chunk.js.map",
+    "index.html": "/deployed-scrimba-product-list/index.html",
+    "precache-manifest.e68614d0eecbe91daa93f829032becf8.js": "/deployed-scrimba-product-list/precache-manifest.e68614d0eecbe91daa93f829032becf8.js",
+    "service-worker.js": "/deployed-scrimba-product-list/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/deployed-scrimba-product-list/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f552c3.js",
+    "static/js/2.59da407e.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.a724b127.chunk.js"
+  ]
+}
